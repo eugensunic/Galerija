@@ -180,7 +180,7 @@ li a {
 }
 .positionfacebook {
   margin-left: 0px;
-  top: 8px;
+  top: -29px;
   position: absolute;
   right: 0;
   margin-right: 0px;
@@ -271,7 +271,6 @@ li a {
   }
   .positionfacebook {
     margin-right: 65px !important;
-    top: 8px;
   }
 }
 @media only screen and (max-width: 767px) and (orientation: portrait) {
